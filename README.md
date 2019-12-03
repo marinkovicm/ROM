@@ -1,9 +1,4 @@
 # ROM
-324
-abc
-test
-test1
-github test
-test u
-test net
-1
+Za projektno nalogo bi rad obravnaval limite
+(limite zaporedij, limite funkcij v neskoncnosti
+ in ko se funkcija priblizuje doloceni tocki)
